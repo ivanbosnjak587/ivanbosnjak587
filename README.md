@@ -1,4 +1,4 @@
-# 👋 Zdravo, ja sam [Ivan Bosnjak]!
+# 👋 Zdravo, ja sam Ivan Bosnjak!
 
 Dobrodošli na moj GitHub profil! Ja sam početnik u programiranju i strastven sam u učenju novih tehnologija.
 
