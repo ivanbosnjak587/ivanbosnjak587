@@ -1,18 +1,18 @@
-# 👋 Zdravo, ja sam Ivan Bosnjak!
+# 👋 Hello, I'm Ivan Bosniak!
 
-Dobrodošli na moj GitHub profil! Ja sam početnik u programiranju i strastven sam u učenju novih tehnologija.
+Welcome to my GitHub profile! I am a beginner in programming and I am passionate about learning new technologies.
 
-### 🌌 O meni
-Interesujem se za web razvoj i programiranje. U slobodno vreme istražujem nove koncepte i učim kroz različite resurse.
+### 🌌 About Me
+I am interested in web development and programming. In my spare time I explore new concepts and learn through different resources.
 
-### 📚 Trenutno učim
+### 📚 I am currently studying:
 - **Python**
 - **HTML5**
 - **CSS**
 - **JavaScript**
 - **Bootstrap**
 
-### 📫 Kako me kontaktirati
+### 📫 How to contact me:
 - **Email**: [ivanbosnjak587@gmail.com](mailto:ivanbosnjak587@gmail.com)
 - **LinkedIn**: [Ivan Bosnjak](https://www.linkedin.com/in/ivan-bosnjak/)
 - **Facebook**: [Ivan Bosnjak](https://www.facebook.com/profile.php?id=100090290286392)
@@ -21,4 +21,4 @@ Interesujem se za web razvoj i programiranje. U slobodno vreme istražujem nove 
 
 ---
 
-Hvala što ste svratili na moj profil! Rado ću razgovarati o novim idejama i učenju. 🚀
+Thanks for stopping by my profile! I am happy to discuss new ideas and learning. 🚀
